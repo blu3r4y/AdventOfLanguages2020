@@ -1,0 +1,5 @@
+# editors
+.vscode/
+
+# build output
+bin/
