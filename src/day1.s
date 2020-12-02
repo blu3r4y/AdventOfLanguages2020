@@ -35,7 +35,7 @@
 
     # input file path relative to the root directory
     input_path:
-        .ascii "./assets/day1.txt\0"
+        .ascii "./data/day1.txt\0"
 
     # the entire input file (up to 4 KB)
     buffer_size:

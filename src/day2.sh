@@ -4,7 +4,7 @@
 # (c) blu3r4y
 
 # path to input file
-INPUT="./assets/day2.txt"
+INPUT="./data/day2.txt"
 
 # number of valid passwords for part 1 and 2
 NVALID_ONE=0
@@ -53,5 +53,5 @@ do
     IFS="$_IFS"
 done < "$INPUT"
 
-echo " $NVALID_ONE "
-echo " $NVALID_TWO "
+echo $NVALID_ONE
+echo $NVALID_TWO

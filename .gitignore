@@ -1,5 +1,2 @@
-# editors
 .vscode/
-
-# build output
-bin/
+.idea/
