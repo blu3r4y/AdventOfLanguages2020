@@ -21,6 +21,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | --: | :----- | :------- | :-------- | :------- |
 | 1 | [Report Repair](https://adventofcode.com/2020/day/1) | 💔 x86-32 | [day1.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day1.py) | **[day1.s](src/day1.s)** |
 | 2 | [Password Philosophy](https://adventofcode.com/2020/day/2) | 🖤 Bash | [day2.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day2.py) | **[day2.sh](src/day2.sh)** |
+| 3 | [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | 🖤 PowerShell | [day3.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day3.py) | **[day3.ps1](src/day3.ps1)** |
 
 ### Usage
 
