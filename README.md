@@ -23,6 +23,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | 2 | [Password Philosophy](https://adventofcode.com/2020/day/2) | 🖤 Bash | [day2.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day2.py) | **[day2.sh](src/day2.sh)** |
 | 3 | [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | 🖤 PowerShell | [day3.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day3.py) | **[day3.ps1](src/day3.ps1)** |
 | 4 | [Passport Processing](https://adventofcode.com/2020/day/4) | 💛 PostgreSQL | [day4.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day4.py) | **[day4.sql](src/day4.sql)** |
+| 5 | [Binary Boarding](https://adventofcode.com/2020/day/5) | 🧡 Prolog | [day5.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day5.py) | **[day5.pl](src/day5.pl)** |
 
 ### Usage
 
