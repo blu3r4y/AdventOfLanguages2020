@@ -7,7 +7,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 ### Categories
 
 - 💔 **Assembly** Languages
-- 🖤 **Command-Line** Languages
+- 🖤 **Shell Scripting** Languages
 - 💛 **Database** Languages
 - 🧡 **Mathematical** Languages
 - 💜 **Functional** Languages
