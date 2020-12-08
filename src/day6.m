@@ -2,7 +2,7 @@
 # (c) blu3r4y
 
 function day6
-    data = fileread("/home/data/day6.txt");
+    data = fileread("../data/day6.txt");
 
     # split by groups, and split groups by individuals then
     groups = strsplit(data, "\n\n");

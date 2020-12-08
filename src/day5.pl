@@ -5,7 +5,7 @@
 
 % read the file, map the lines to seat ids, and compute the result
 main() :-
-  read_input('/home/data/day5.txt', Input),
+  read_input('./data/day5.txt', Input),
   maplist(seat_id, Input, SeatIds),
 
   part_one(SeatIds, ResultPart1),
