@@ -10,7 +10,6 @@ COPY src/day1.s src/
 
 # ensure that we have LF line endings
 RUN dos2unix bin/Makefile && \
-    dos2unix data/day1.txt && \
     dos2unix src/day1.s
 
 RUN cd bin && make

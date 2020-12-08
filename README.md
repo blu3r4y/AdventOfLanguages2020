@@ -33,3 +33,7 @@ Instead of installing 25 toolchains, simply run each solution with Docker
     export DAY=1
     docker build -f ./docker/day${DAY}/Dockerfile -t day${DAY} .
     docker run --rm -it day${DAY}
+
+Input files must have LF line endings, which should be the default on checkout, if not, fix that with
+
+    dos2unix data/*.txt
