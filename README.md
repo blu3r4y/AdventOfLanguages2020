@@ -26,6 +26,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | 5 | [Binary Boarding](https://adventofcode.com/2020/day/5) | 🧡 Prolog | [day5.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day5.py) | **[day5.pl](src/day5.pl)** |
 | 6 | [Custom Customs](https://adventofcode.com/2020/day/6) | 🧡 Octave | [day6.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day6.py) | **[day6.m](src/day6.m)** |
 | 7 | [Handy Haversacks](https://adventofcode.com/2020/day/7) | 🧡 R | [day7.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day7.py) | **[day7.R](src/day7.R)** |
+| 8 | [Handheld Halting](https://adventofcode.com/2020/day/8) | 💜 Haskell | [day8.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day8.py) | **[day8.hs](src/day8.hs)** |
 
 ### Usage
 
