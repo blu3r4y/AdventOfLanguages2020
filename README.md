@@ -29,6 +29,8 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | 8 | [Handheld Halting](https://adventofcode.com/2020/day/8) | 💜 Haskell | [day8.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day8.py) | <img width="16" src="./images/file_type_haskell.svg" />&nbsp; **[day8.hs](src/day8.hs)** |
 | 9 | [Encoding Error](https://adventofcode.com/2020/day/9) | 💜 F# | [day9.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day9.py) | <img width="16" src="./images/file_type_fsharp.svg" />&nbsp; **[day9.fsx](src/day9.fsx)** |
 | 10 | [Adapter Array](https://adventofcode.com/2020/day/10) | 💜 Scala | [day10.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day10.py) | <img width="16" src="./images/file_type_scala.svg" />&nbsp; **[day10.scala](src/day10.scala)** |
+| 11 | [Seating System](https://adventofcode.com/2020/day/11) | _TODO_ | _TODO_ | _TODO_ |
+| 12 | [Rain Risk](https://adventofcode.com/2020/day/12) | 💙 C | [day12.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day12.py) | <img width="16" src="./images/file_type_c.svg" />&nbsp; **[day12.c](src/day12.c)** |
 
 ### Usage
 
