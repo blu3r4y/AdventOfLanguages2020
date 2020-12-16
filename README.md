@@ -31,6 +31,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | 10 | [Adapter Array](https://adventofcode.com/2020/day/10) | 💜 Scala | [day10.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day10.py) | <img width="16" src="./images/file_type_scala.svg" />&nbsp; **[day10.scala](src/day10.scala)** |
 | 11 | [Seating System](https://adventofcode.com/2020/day/11) | _TODO_ | _TODO_ | _TODO_ |
 | 12 | [Rain Risk](https://adventofcode.com/2020/day/12) | 💙 C | [day12.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day12.py) | <img width="16" src="./images/file_type_c.svg" />&nbsp; **[day12.c](src/day12.c)** |
+| 13 | [Shuttle Search](https://adventofcode.com/2020/day/13) | 💙 C++ | [day13.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day13.py) | <img width="16" src="./images/file_type_cpp.svg" />&nbsp; **[day13.cpp](src/day13.cpp)** |
 
 ### Usage
 
