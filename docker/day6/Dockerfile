@@ -7,4 +7,4 @@ COPY src/day6.m src/
 
 WORKDIR /home/src
 
-CMD ["octave", "day6.m"]
+CMD [ "octave", "day6.m" ]
