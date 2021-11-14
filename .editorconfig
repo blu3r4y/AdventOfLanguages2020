@@ -15,7 +15,7 @@ indent_style = tab
 indent_style = space
 indent_size = 2
 
-[*.{s,sh,ps1,sql,m,R,fsx,nim,c,cpp}]
+[*.{s,sh,ps1,sql,m,R,fsx,nim,c,cpp,rs}]
 indent_style = space
 indent_size = 4
 

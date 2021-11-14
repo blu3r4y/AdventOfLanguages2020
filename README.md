@@ -31,6 +31,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | 12 | [Rain Risk](https://adventofcode.com/2020/day/12) | 💙 C | [day12.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day12.py) | <img width="16" src="./images/file_type_c.svg" />&nbsp; **[day12.c](src/day12.c)** |
 | 13 | [Shuttle Search](https://adventofcode.com/2020/day/13) | 💙 C++ | [day13.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day13.py) | <img width="16" src="./images/file_type_cpp.svg" />&nbsp; **[day13.cpp](src/day13.cpp)** |
 | 14 | [Docking Data](https://adventofcode.com/2020/day/14) | 💙 Go | [day14.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day14.py) | <img width="16" src="./images/file_type_go.svg" />&nbsp; **[day14.go](src/day14.go)** |
+| 15 | [Rambunctious Recitation](https://adventofcode.com/2020/day/15) | 💙 Rust | [day15.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day15.py) | <img width="16" src="./images/file_type_rust.svg" />&nbsp; **[day15.rs](src/day15.rs)** |
 
 ## Usage
 
@@ -142,3 +143,9 @@ I probably code too much Python.
 Good experience overall, I liked it.
 Go has a very well-designed standard library with plenty of utility functions.
 Only the syntax when appending to slices seemed a bit odd at first.
+
+#### 💙 Rust
+
+The better C++, but I still don't like the syntax.
+All those `unwrap()` calls mixed with `*` and `&` characters makes the code hard to read.
+Moreover, I missed that I can not easily slice vectors but have to use e.g. `split_last()` instead.
