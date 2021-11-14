@@ -1,4 +1,4 @@
-FROM bash:5
+FROM bash:5-alpine3.14
 
 WORKDIR /home
 
