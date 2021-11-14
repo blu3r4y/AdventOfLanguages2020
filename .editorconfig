@@ -1,0 +1,24 @@
+root = true
+
+[*]
+charset = utf-8
+insert_final_newline = true
+
+[*.txt]
+end_of_line = lf
+
+[Makefile]
+end_of_line = lf
+indent_style = tab
+
+[*.{pl,hs,scala}]
+indent_style = space
+indent_size = 2
+
+[*.{s,sh,ps1,sql,m,R,fsx,nim,c,cpp}]
+indent_style = space
+indent_size = 4
+
+[*.{go}]
+indent_style = tab
+indent_size = 4
