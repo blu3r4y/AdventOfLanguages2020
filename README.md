@@ -30,6 +30,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | 11 | [Seating System](https://adventofcode.com/2020/day/11) | 💙 Nim | [day11.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day11.py) | <img width="16" src="./images/file_type_light_nim.svg" />&nbsp; **[day11.nim](src/day11.nim)** |
 | 12 | [Rain Risk](https://adventofcode.com/2020/day/12) | 💙 C | [day12.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day12.py) | <img width="16" src="./images/file_type_c.svg" />&nbsp; **[day12.c](src/day12.c)** |
 | 13 | [Shuttle Search](https://adventofcode.com/2020/day/13) | 💙 C++ | [day13.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day13.py) | <img width="16" src="./images/file_type_cpp.svg" />&nbsp; **[day13.cpp](src/day13.cpp)** |
+| 14 | [Docking Data](https://adventofcode.com/2020/day/14) | 💙 Go | [day14.py](https://github.com/blu3r4y/AdventOfCode2020/blob/main/src/day14.py) | <img width="16" src="./images/file_type_go.svg" />&nbsp; **[day14.go](src/day14.go)** |
 
 ## Usage
 
@@ -135,3 +136,9 @@ I was missing list comprehensions and tuple unpacking a lot here.
 And that there is no `argmax()` or `enumerate()`.
 And I hated that there is no `.split(",")` function to parse comma-separated lists easily.
 I probably code too much Python.
+
+#### 💙 Go
+
+Good experience overall, I liked it.
+Go has a very well-designed standard library with plenty of utility functions.
+Only the syntax when appending to slices seemed a bit odd at first.
