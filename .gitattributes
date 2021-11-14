@@ -1,5 +1,6 @@
 # make sure to always check out these files with LF line endings
 data/*.txt text eol=lf
+Makefile eol=lf
 
 # also detect these file extensions
 *.sql linguist-detectable
